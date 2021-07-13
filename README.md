@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning RNN, CNN and NLP
 
 Find me on:
-- LinkdIn: https://www.linkedin.com/in/esteban-rodriguez-mendoza/
+- LinkedIn: https://www.linkedin.com/in/esteban-rodriguez-mendoza/
 - Personal Blog: https://esjerome.github.io/
