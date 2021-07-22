@@ -4,4 +4,3 @@
 
 Find me on:
 - LinkedIn: https://www.linkedin.com/in/esteban-rodriguez-mendoza/
-- Personal Blog: https://esjerome.github.io/
